@@ -10,3 +10,5 @@ To separate swift/obejctiveC and java/kotlin bar I used
 `.position(by: .value("position", dDatum.platform.rawValue))`
 
 You can customize if depend on your usage. 
+
+#swiftui #charts #
